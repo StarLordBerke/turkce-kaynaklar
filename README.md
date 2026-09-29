@@ -3,7 +3,7 @@ Bu rehberde yazılım geliştirme yolunda, seçmiş olduğunuz alan için öğre
 
 > Bilgi paylaştıkça çoğalır
 
-![footer](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
+![footer](https://github.com/StarLordBerke/StarLordBerke4/blob/main/footer.jpg)
 
 ## Türkçe Kaynaklar Listesi:
 
@@ -1148,3 +1148,6 @@ Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
 * [PyInstaller ile .py Dosyalarını .exe'ye Çevirmek](https://makdos.blog/python/545/pyinstaller-ile-py-dosyalarini-exe-ye-cevirmek/) (Makdos Blog)
 
 <img src="http://www.fubiz.net/wp-content/uploads/2017/03/cityillustrationsdigital6.jpg" alt="Image from fubiz.net" />
+
+---
+*Geliştirici: Berke Mert Öztürk*
