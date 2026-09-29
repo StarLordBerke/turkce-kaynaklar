@@ -3,7 +3,7 @@ Bu rehberde yazılım geliştirme yolunda, seçmiş olduğunuz alan için öğre
 
 > Bilgi paylaştıkça çoğalır
 
-![footer](https://github.com/StarLordBerke/StarLordBerke4/blob/main/footer.jpg)
+![footer](https://github.com/StarLordBerke/StarLordBerke/blob/main/footer.jpg)
 
 ## Türkçe Kaynaklar Listesi:
 
