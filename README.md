@@ -474,6 +474,8 @@ Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
 
 ### Machine Learning
 - :movie_camera: [Makine Ögrenmesi Video Blog](https://www.youtube.com/playlist?list=PLRRY18KNZTgUQx8NT_YqCVOyb-VnB79W2)
+- [Gözetimli ve gözetimsiz öğrenme farkı: Hangisi ne zaman?](https://yzdersleri.com/ders/gozetimli-ve-gozetimsiz-ogrenme-farki/) - [Yapay Zekâ Dersleri](https://yzdersleri.com/)
+- [Kümeleme: etiketsiz veride grup bulmak](https://yzdersleri.com/ders/kumeleme-etiketsiz-veride-grup-bulmak/) - [Yapay Zekâ Dersleri](https://yzdersleri.com/)
 
 
 ### Matlab
